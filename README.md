@@ -8,7 +8,7 @@ Dépôt dédié à la pratique quotidienne de la programmation.
 * Environnement de développement : Vs code sur Kali Linux.
 
 ## État d'avancement
-* **Semaine 1** : En cours (Jour 4/7)
+* **Semaine 1** : En cours (Jour 5/7)
 * **Semaine 2** : À venir
 * **Semaine 3** : À venir
 * **Semaine 4** : À venir
