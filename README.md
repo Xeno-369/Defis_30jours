@@ -9,7 +9,7 @@ Dépôt dédié à la pratique quotidienne de la programmation.
 
 ## État d'avancement
 * **Semaine 1** : En cours (Jour 7/7)
-* **Semaine 2** : À venir
+* **Semaine 2** : En cours (jour 1/7)
 * **Semaine 3** : À venir
 * **Semaine 4** : À venir
 
