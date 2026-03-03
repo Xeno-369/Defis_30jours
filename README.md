@@ -10,7 +10,7 @@ Dépôt dédié à la pratique quotidienne de la programmation.
 ## État d'avancement
 * **Semaine 1** : Validé (Jour 7/7)
 * **Semaine 2** : Validé (jour 7/7)
-* **Semaine 3** : En cours (jour 4/7)
+* **Semaine 3** : En cours (jour 5/7)
 * **Semaine 4** : À venir
 
 ## Organisation du dépôt
