@@ -11,13 +11,13 @@ Dépôt dédié à la pratique quotidienne de la programmation.
 * **Semaine 1** : Validé (Jour 7/7)
 * **Semaine 2** : Validé (jour 7/7)
 * **Semaine 3** : Validé (jour 7/7)
-* **Semaine 4** : En cours (jour 7/7)
+* **Semaine 4** : Validé (jour 9/9)
 
 ## Organisation du dépôt
-Chaque dossier `Jour-XX` contient les solutions dans les trois langages :
+Chaque dossier `jour_xx` contient les solutions dans les trois langages :
 * `jour_xx.py`
 * `jour_xx.c`
 * `jour_xx.pas`
 
 ---
-*Mis à jour quotidiennement.*
+*Félicitations ! Challenge terminé.*
